@@ -37,11 +37,11 @@ A place to track my self-learning progress, and keep a list of useful resources.
 </details>
 
 <details>
-<summary>Data Structures and Algorithms</summary>
+<summary>Data Structures and Algorithms </summary>
+
 |Concept|Resource|Done|
 |---|---|---|
-||[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)||
-
+||[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)| |
 </details>
 
 
