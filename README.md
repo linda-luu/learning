@@ -19,6 +19,7 @@ A place to track my self-learning progress, and keep a list of useful resources.
 |Concept|Resource|Done|
 |---|---|---|
 |Classification|[Book: Statistical Learning Ch.4](https://www.statlearning.com/): (Multiple) Logistic Regression, Linear/Quadratic Discriminant Analysis|✓|
+||[StatQuest Playlist: Logistic Regression](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe): Coefficients, MLE, R-squared, p-value, Saturated Models & Deviance||
 ||[StatQuest: Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA)||
 |Resampling|[Book: Statistical Learning Ch.5](https://www.statlearning.com/): Cross Validation, Bootstrap|✓|
 ||[StatQuest: Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)||
@@ -34,6 +35,13 @@ A place to track my self-learning progress, and keep a list of useful resources.
 ||[Book: The StatQuest Illustrated Guide to Machine Learning](https://statquest.org/statquest-store/)|✓|
 
 </details>
+
+<details>
+<summary>Data Structures and Algorithms</summary>
+|Concept|Resource|Done|
+|---|---|---|
+||[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)||
+
 
 ## Programming
 <details>
@@ -57,11 +65,15 @@ A place to track my self-learning progress, and keep a list of useful resources.
 ||[NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)||
 |Pandas|[Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)||
 ||[A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)||
+|Regular Expressions|[YouTube: Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)|✓|
 ||[DataQuest: Advanced Data Cleaning in Python](https://www.dataquest.io/course/python-data-cleaning-advanced/)|✓|
 ||[DataQuest: Introduction to Data Visualization in Python](https://www.dataquest.io/course/exploratory-data-visualization/)|✓|
 |Jupyter|[DataQuest: Python Functions and Jupyter Notebook](https://www.dataquest.io/course/python-functions-and-jupyter-notebook/)|✓|
 |Scikit-learn|[DataQuest: Intermediate Machine Learning in Python](https://www.dataquest.io/course/machine-learning-intermediate/)|✓|
 ||[DataQuest: Decision Tree Modeling in Python](https://www.dataquest.io/course/decision-trees/)||
+|Concurrency|[Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/#objectives)||
+||[Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)||
+|Packages|[Push and pull: when and why to update your dependencies](https://pythonspeed.com/articles/when-update-dependencies/)||
 
 </details>
 
@@ -81,7 +93,9 @@ A place to track my self-learning progress, and keep a list of useful resources.
 
 |Concept|Resource|Done|
 |---|---|---|
-||[DataQuest: Introduction to Git and Version Control](https://www.dataquest.io/course/git-and-vcs/)||
+|Git|[DataQuest: Introduction to Git and Version Control](https://www.dataquest.io/course/git-and-vcs/)||
+||[Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)||
+
 
 </details>
 
@@ -95,4 +109,8 @@ A place to track my self-learning progress, and keep a list of useful resources.
 
 </details>
 
-||[]()||
+## Experiment Design
+<details>
+<summary> A/B Testing </summary>
+
+||[Book: Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://experimentguide.com/)||
