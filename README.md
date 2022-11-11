@@ -75,13 +75,12 @@ A place to track my self-learning progress, and keep a list of useful resources.
 
 ## Business 
 <details>
-<summary> SQL </summary>
+<summary> Business for Data Analysis </summary>
 
 |Concept|Resource|Done|
 |---|---|---|
 ||[DataQuest: Data Analysis For Business in Python](https://www.dataquest.io/course/data-analysis-business/)|✓|
-||[DataQuest: SQL Fundamentals](https://www.dataquest.io/path/sql-skills/)|✓|
-||[DataQuest: Intermediate SQL For Data Analysis](https://www.dataquest.io/course/sql-joins-relations/)|✓|
+
 </details>
 
 ||[]()||
