@@ -19,12 +19,15 @@ A place to track my self-learning progress, and keep a list of useful resources.
 |Concept|Resource|Done|
 |---|---|---|
 |Classification|[Book: Statistical Learning Ch.4](https://www.statlearning.com/): (Multiple) Logistic Regression, Linear/Quadratic Discriminant Analysis|✓|
+||[StatQuest: Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA)||
 |Resampling|[Book: Statistical Learning Ch.5](https://www.statlearning.com/): Cross Validation, Bootstrap|✓|
+||[StatQuest: Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)||
 |Selection & Regularization|[Book: Statistical Learning Ch.6](https://www.statlearning.com/): Model Selection (Best Subset, Forward/Backward Stepwise, Hybrid), Model Validation (Cp, AIC, BIC, adjusted R-Squared), Shrinkage Methods (Ridge, Lasso), Dimension Reduction (PCA, Partial Least Squares)|✓|
 |Beyond Linearity|[Book: Statistical Learning Ch.7](https://www.statlearning.com/): Polynomial Regression, Step Functions, Splines, Local Regression, Generalized Additive Models (GAM)||
 |Decision Trees|[Book: Statistical Learning Ch.8](https://www.statlearning.com/): Regression Trees, Pruning, Classification Trees, Bagging (Bootstrap Aggregation), Random Forests, Boosting||
 ||[StatQuest: Decision and Classification Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=_L39rN6gz7Y)||
 ||[StatQuest: Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=g9c66TUylZ4)||
+||[StatQuest: How to Prune Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=D0efHEJsfHo)||
 ||[StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)||
 ||[StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=sQ870aTKqiM)||
 ||[StatQuest: AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)||
