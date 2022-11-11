@@ -42,6 +42,8 @@ A place to track my self-learning progress, and keep a list of useful resources.
 |---|---|---|
 ||[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)||
 
+</details>
+
 
 ## Programming
 <details>
@@ -113,4 +115,6 @@ A place to track my self-learning progress, and keep a list of useful resources.
 <details>
 <summary> A/B Testing </summary>
 
+|Concept|Resource|Done|
+|---|---|---|
 ||[Book: Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://experimentguide.com/)||
