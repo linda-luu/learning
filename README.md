@@ -1,4 +1,4 @@
-# learning
+# Learning
 A place to track my self-learning progress, and keep a list of useful resources. Idea from [amitness](https://github.com/amitness).
 
 ## Theoretical
@@ -54,11 +54,11 @@ A place to track my self-learning progress, and keep a list of useful resources.
 </details>
 
 <details>
-<summary> Command Line </summary>
+<summary> Command Line & Linux </summary>
 
 |Concept|Resource|Done|
 |---|---|---|
-||[DataQuest: Command Line for Data Science](https://www.dataquest.io/course/command-line-elements/)|✓|
+|Command Line|[DataQuest: Command Line for Data Science](https://www.dataquest.io/course/command-line-elements/)|✓|
 ||[DataQuest: Text Processing for Data Science](https://www.dataquest.io/course/text-processing-cli/)|✓|
 ||[DataQuest: Intermediate Command Line for Data Science](https://www.dataquest.io/course/command-line-intermediate/)||
 
