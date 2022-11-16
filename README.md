@@ -61,12 +61,16 @@ A place to track my self-learning progress, and keep a list of useful resources.
 
 |Concept|Resource|Done|
 |---|---|---|
+|Base|[Article: Python for Machine Learning](https://madewithml.com/courses/foundations/python/#sets)|✓|
+||[Article: A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/) class oriented programming||
 ||[DataQuest: Introduction to Python Programming](https://www.dataquest.io/course/introduction-to-python/)|✓|
 ||[DataQuest: Introduction to Pandas and NumPy for Data Analysis](https://www.dataquest.io/course/pandas-fundamentals/)|✓|
-|Numpy|[A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)||
-||[NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)||
+|NumPy|[Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)|✓|
+||[Article: NumPy for Machine Learning](https://madewithml.com/courses/foundations/numpy/)|✓|
+||[GitHub: 100 numpy exercises](https://github.com/rougier/numpy-100)||
 |Pandas|[Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)||
 ||[A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)||
+||[Article: Pandas for Machine Learning](https://madewithml.com/courses/foundations/pandas/)||
 |Regular Expressions|[YouTube: Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)|✓|
 ||[DataQuest: Advanced Data Cleaning in Python](https://www.dataquest.io/course/python-data-cleaning-advanced/)|✓|
 ||[DataQuest: Introduction to Data Visualization in Python](https://www.dataquest.io/course/exploratory-data-visualization/)|✓|
