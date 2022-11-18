@@ -1,5 +1,5 @@
 # Learning
-A place to track my self-learning progress, and keep a list of useful resources. Idea from [amitness](https://github.com/amitness).
+A place to track my self-learning progress and keep a list of useful resources. Idea from [amitness](https://github.com/amitness).
 
 ## Theoretical
 
