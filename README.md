@@ -10,6 +10,8 @@ A place to track my self-learning progress, and keep a list of useful resources.
 |---|---|---|
 |Linear Regression|[Book: Statistical Learning Ch.3](https://www.statlearning.com/)|✓|
 ||[Book: The StatQuest Illustrated Guide to Machine Learning](https://statquest.org/statquest-store/)|✓|
+|Probability|[Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html#secondPage)||
+
 
 </details>
 
@@ -76,7 +78,7 @@ A place to track my self-learning progress, and keep a list of useful resources.
 ||[DataQuest: Introduction to Data Visualization in Python](https://www.dataquest.io/course/exploratory-data-visualization/)|✓|
 |Jupyter|[DataQuest: Python Functions and Jupyter Notebook](https://www.dataquest.io/course/python-functions-and-jupyter-notebook/)|✓|
 |Scikit-learn|[DataQuest: Intermediate Machine Learning in Python](https://www.dataquest.io/course/machine-learning-intermediate/)|✓|
-||[DataQuest: Decision Tree Modeling in Python](https://www.dataquest.io/course/decision-trees/)||
+||[DataQuest: Decision Tree Modeling in Python](https://www.dataquest.io/course/decision-trees/)|✓|
 |Concurrency|[Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/#objectives)||
 ||[Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)||
 |Packages|[Push and pull: when and why to update your dependencies](https://pythonspeed.com/articles/when-update-dependencies/)||
@@ -118,6 +120,14 @@ A place to track my self-learning progress, and keep a list of useful resources.
 ## Experiment Design
 <details>
 <summary> A/B Testing </summary>
+
+|Concept|Resource|Done|
+|---|---|---|
+||[Book: Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://experimentguide.com/)||
+
+## Interview Prep
+<details>
+<summary>  </summary>
 
 |Concept|Resource|Done|
 |---|---|---|
