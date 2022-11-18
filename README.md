@@ -67,6 +67,7 @@ A place to track my self-learning progress and keep a list of useful resources. 
 ||[Article: A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/) class oriented programming||
 ||[DataQuest: Introduction to Python Programming](https://www.dataquest.io/course/introduction-to-python/)|✓|
 ||[DataQuest: Introduction to Pandas and NumPy for Data Analysis](https://www.dataquest.io/course/pandas-fundamentals/)|✓|
+||[DataQuest: Advanced Python Functions for Data Science](https://www.dataquest.io/course/python-advanced-functions/#course-outline-sec)||
 |NumPy|[Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)|✓|
 ||[Article: NumPy for Machine Learning](https://madewithml.com/courses/foundations/numpy/)|✓|
 ||[GitHub: 100 numpy exercises](https://github.com/rougier/numpy-100)||
@@ -80,7 +81,8 @@ A place to track my self-learning progress and keep a list of useful resources. 
 |Scikit-learn|[DataQuest: Intermediate Machine Learning in Python](https://www.dataquest.io/course/machine-learning-intermediate/)|✓|
 ||[DataQuest: Decision Tree Modeling in Python](https://www.dataquest.io/course/decision-trees/)|✓|
 ||[DataQuest: Introduction to Deep Learning](https://www.dataquest.io/course/deep-learning-fundamentals/)||
-|Spark|[DataQuest: Analyzing Large Datasets in Spark and Map-Reduce]()||
+|Spark|[DataQuest: Analyzing Large Datasets in Spark and Map-Reduce](https://www.dataquest.io/course/spark-map-reduce/)||
+|PyTorch|[Article: PyTorch Fundamentals](https://madewithml.com/courses/foundations/pytorch/)||
 |Concurrency|[Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/#objectives)||
 ||[Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)||
 |Packages|[Push and pull: when and why to update your dependencies](https://pythonspeed.com/articles/when-update-dependencies/)||
