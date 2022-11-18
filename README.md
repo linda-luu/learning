@@ -124,6 +124,7 @@ A place to track my self-learning progress, and keep a list of useful resources.
 |Concept|Resource|Done|
 |---|---|---|
 ||[Book: Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://experimentguide.com/)||
+</details>
 
 ## Interview Prep
 <details>
