@@ -137,3 +137,8 @@ A place to track my self-learning progress and keep a list of useful resources. 
 |Concept|Resource|Done|
 |---|---|---|
 ||[Book: Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://experimentguide.com/)||
+
+  
+  
+  https://www.elementsofai.com/
+  https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
