@@ -9,8 +9,17 @@ A place to track my self-learning progress and keep a list of useful resources. 
 |Concept|Resource|Done|
 |---|---|---|
 |Linear Regression|[Book: Statistical Learning Ch.3](https://www.statlearning.com/)|✓|
-||[Book: The StatQuest Illustrated Guide to Machine Learning](https://statquest.org/statquest-store/)|✓|
+||[StatQuest: Linear Regression, Clearly Explained!!!](https://www.youtube.com/watch?v=7ArmBVF2dCs&t=0s)|✓|
+||[StatQuest: Multiple Regression, Clearly Explained!!!](https://www.youtube.com/watch?v=EkAQAi3a4js)|✓|
+||[StatQuest: Using Linear Models for t tests and ANOVA, Clearly Explained!!!](https://www.youtube.com/watch?v=R7xd624pR1A)||
+||[StatQuest: Design Matrices For Linear Models, Clearly Explained!!!](https://www.youtube.com/watch?v=LoocDAbgwlM)||
+
 |Probability|[Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html#secondPage)||
+||[StatQuest: Probability is not Likelihood. Find out why!!!](https://www.youtube.com/watch?v=pYxNSUDSFH4)||
+|Metrics|[StatQuest: R-squared, Clearly Explained!!!](https://www.youtube.com/watch?v=bMccdk8EdGo)|✓|
+|Hypothesis Testing|[StatQuest: Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!](https://www.youtube.com/watch?v=0oc49DyA3hU)|✓|
+||[StatQuest: p-values: What they are and how to interpret them](https://www.youtube.com/watch?v=vemZtEM63GY)|✓|
+||[StatQuest: p-hacking: What it is and how to avoid it!](https://www.youtube.com/watch?v=HDCOUXE3HMM)||
 
 
 </details>
@@ -20,6 +29,9 @@ A place to track my self-learning progress and keep a list of useful resources. 
 
 |Concept|Resource|Done|
 |---|---|---|
+|Fundamentals|[Book: The StatQuest Illustrated Guide to Machine Learning](https://statquest.org/statquest-store/)|✓|
+||[StatQuest: Machine Learning Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)|✓|
+||[StatQuest: Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUJUNlfvCNhJMNjNNpt5ljcR)||
 |Classification|[Book: Statistical Learning Ch.4](https://www.statlearning.com/): (Multiple) Logistic Regression, Linear/Quadratic Discriminant Analysis|✓|
 ||[StatQuest Playlist: Logistic Regression](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe): Coefficients, MLE, R-squared, p-value, Saturated Models & Deviance||
 ||[StatQuest: Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA)||
