@@ -46,7 +46,7 @@ A place to track my self-learning progress and keep a list of useful resources. 
 ||[StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)||
 ||[StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=sQ870aTKqiM)||
 ||[StatQuest: AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA)||
-||[Book: The StatQuest Illustrated Guide to Machine Learning](https://statquest.org/statquest-store/)|✓|
+|Neural Networks|[Article: The Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)||
 
 </details>
 
@@ -92,7 +92,7 @@ A place to track my self-learning progress and keep a list of useful resources. 
 |Jupyter|[DataQuest: Python Functions and Jupyter Notebook](https://www.dataquest.io/course/python-functions-and-jupyter-notebook/)|✓|
 |Scikit-learn|[DataQuest: Intermediate Machine Learning in Python](https://www.dataquest.io/course/machine-learning-intermediate/)|✓|
 ||[DataQuest: Decision Tree Modeling in Python](https://www.dataquest.io/course/decision-trees/)|✓|
-||[DataQuest: Introduction to Deep Learning](https://www.dataquest.io/course/deep-learning-fundamentals/)||
+||[DataQuest: Introduction to Deep Learning](https://www.dataquest.io/course/deep-learning-fundamentals/)|✓|
 |Spark|[DataQuest: Analyzing Large Datasets in Spark and Map-Reduce](https://www.dataquest.io/course/spark-map-reduce/)||
 |PyTorch|[Article: PyTorch Fundamentals](https://madewithml.com/courses/foundations/pytorch/)||
 |Concurrency|[Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/#objectives)||
