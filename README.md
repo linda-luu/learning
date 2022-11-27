@@ -86,7 +86,7 @@ A place to track my self-learning progress and keep a list of useful resources. 
 |Pandas|[Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)||
 ||[A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)||
 ||[Article: Pandas for Machine Learning](https://madewithml.com/courses/foundations/pandas/)||
-||[Kaggle Course: Pandas ](https://www.kaggle.com/learn/pandas)||
+||[Kaggle Course: Pandas ](https://www.kaggle.com/learn/pandas)|✓|
 |Regular Expressions|[YouTube: Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)|✓|
 ||[DataQuest: Advanced Data Cleaning in Python](https://www.dataquest.io/course/python-data-cleaning-advanced/)|✓|
 ||[DataQuest: Introduction to Data Visualization in Python](https://www.dataquest.io/course/exploratory-data-visualization/)|✓|
