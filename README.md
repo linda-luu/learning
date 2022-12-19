@@ -124,6 +124,15 @@ A place to track my self-learning progress and keep a list of useful resources. 
 
 </details>
 
+<details>
+<summary> Visualization </summary>
+ 
+|Concept|Resource|Done|
+|---|---|---|  
+|Looker|[Google Cloud: Saving and Editing Looks](https://cloud.google.com/looker/docs/saving-and-editing-looks)||
+||[Google Cloud: Exploring Data](https://cloud.google.com/looker/docs/exploring-data)||
+</details>  
+
 ## Business 
 <details>
 <summary> Business for Data Analysis </summary>
