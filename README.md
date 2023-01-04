@@ -13,7 +13,6 @@ A place to track my self-learning progress and keep a list of useful resources. 
 ||[StatQuest: Multiple Regression, Clearly Explained!!!](https://www.youtube.com/watch?v=EkAQAi3a4js)|✓|
 ||[StatQuest: Using Linear Models for t tests and ANOVA, Clearly Explained!!!](https://www.youtube.com/watch?v=R7xd624pR1A)||
 ||[StatQuest: Design Matrices For Linear Models, Clearly Explained!!!](https://www.youtube.com/watch?v=LoocDAbgwlM)||
-
 |Probability|[Seeing Theory: A visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html#secondPage)||
 ||[StatQuest: Probability is not Likelihood. Find out why!!!](https://www.youtube.com/watch?v=pYxNSUDSFH4)||
 |Metrics|[StatQuest: R-squared, Clearly Explained!!!](https://www.youtube.com/watch?v=bMccdk8EdGo)|✓|
