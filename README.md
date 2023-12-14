@@ -70,7 +70,7 @@ A place to track my self-learning progress and keep a list of useful resources. 
 
 |Concept|Resource|Done|
 |---|---|:---:|
-||[Five tips to improve your R code]([https://sqlzoo.net/wiki/SQL_Tutorial](https://drsimonj.svbtle.com/five-simple-tricks-to-improve-your-r-code))|✓|
+||[Five tips to improve your R code](https://drsimonj.svbtle.com/five-simple-tricks-to-improve-your-r-code)|✓|
 </details>
 <details>
 <summary> SQL </summary>
